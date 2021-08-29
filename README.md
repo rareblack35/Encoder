@@ -1,5 +1,5 @@
 # Encoder
-******Python Code For Obfuscator.******
+******Python Encoder/Obfuscator.******
 
 [![Author](https://img.shields.io/badge/Author-rareblack35-blue)](https://github.com/rareblack35)
 [![Language](https://img.shields.io/badge/Written%20in-python-blue)](#)
