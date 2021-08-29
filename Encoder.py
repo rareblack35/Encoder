@@ -1,7 +1,7 @@
 # -*- coding:utf8 -*-
 
 # Supports python2 & python3
-# Name   : PyObfuscate - Simple Python Code Obfuscator
+# Name   : Encoder - Simple Python Code Obfuscator
 # Author : RaRebLaCk
 # Date   : Sun Jul 19 00:19:27 2021
 
