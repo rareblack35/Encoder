@@ -14,6 +14,6 @@
 ```bash
 apt install git python -y
 git clone https://github.com/rareblack35/Encoder.git
-cd PyObfuscate
-python encode.py
+cd Encoder
+python Encode.py
 ```
